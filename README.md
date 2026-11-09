@@ -102,7 +102,7 @@ dependencyResolutionManagement {
 Then add the dependency (min SDK 26):
 
 ```kotlin
-implementation("com.github.al3j4ndrolm.ComposeGlass:glass:1.0.0")
+implementation("com.github.al3j4ndrolm:ComposeGlass:1.0.0")
 ```
 
 ## Good to know
